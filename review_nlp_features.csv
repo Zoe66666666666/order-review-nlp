@@ -1,0 +1,11 @@
+order_id,customer_id,store_id,delivery_address,order_time,delivery_time,review_text,review_length,sentiment_polarity,sentiment_subjectivity
+1,101,S001,123 King St,2024-05-01 10:30,2024-05-01 11:10,Food was late and cold.,5,-0.44999999999999996,0.8
+2,102,S001,45 Queen St,2024-05-02 12:00,2024-05-02 12:25,"Great service, food was hot!",5,0.55625,0.8
+3,103,S002,789 Elm Rd,2024-05-03 18:15,2024-05-03 18:50,Delivery took too long.,4,-0.05,0.4
+4,104,S003,101 Pine St,2024-05-03 19:00,2024-05-03 19:30,Missing item in the order.,5,-0.2,0.05
+5,105,S001,555 Maple Ave,2024-05-04 13:00,2024-05-04 13:35,Everything was perfect.,3,1.0,1.0
+6,106,S002,66 College St,2024-05-05 15:20,2024-05-05 16:00,Driver was polite and quick.,5,0.3333333333333333,0.5
+7,107,S003,77 Bay St,2024-05-06 17:45,2024-05-06 18:20,Cold food again. Not happy.,5,-0.5,1.0
+8,108,S001,888 River Rd,2024-05-07 11:10,2024-05-07 11:40,"Prompt delivery, food was tasty.",5,0.0,0.0
+9,109,S002,333 Lake Blvd,2024-05-08 20:00,2024-05-08 20:40,"Took too long, no utensils.",5,-0.05,0.4
+10,110,S003,999 Sunset Dr,2024-05-09 21:00,2024-05-09 21:25,Fast and friendly service.,4,0.2875,0.55
