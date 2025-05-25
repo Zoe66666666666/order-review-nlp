@@ -1,0 +1,11 @@
+order_id,customer_id,courier_id,source,destination,pickup_time,delivery_time,customer_payment_amount,item_weight,review_text
+1,101,C001,"12 Baker St, Toronto","200 Market St, Toronto",2024-05-01 09:00,2024-05-01 10:05,25.5,2.5,"Arrived on time, well packed."
+2,102,C002,"34 King Ave, Toronto","18 Oak St, Toronto",2024-05-01 11:15,2024-05-01 12:00,30.0,3.0,"Delivered late, box was damaged."
+3,103,C001,"56 Elm Rd, Toronto","310 Bay St, Toronto",2024-05-02 10:00,2024-05-02 10:50,22.75,1.8,Smooth delivery.
+4,104,C003,"78 Queen St, Toronto","66 Sunset Blvd, Toronto",2024-05-02 14:30,2024-05-02 15:10,28.4,2.2,Tracking was inaccurate.
+5,105,C002,"90 Pine Ln, Toronto","45 Hill Rd, Toronto",2024-05-03 13:10,2024-05-03 13:50,26.6,2.6,"Wrong address at first, fixed later."
+6,106,C001,"102 Maple Dr, Toronto","99 Forest Ln, Toronto",2024-05-04 08:50,2024-05-04 09:30,24.0,2.3,Very professional and polite.
+7,107,C003,"114 River Rd, Toronto","177 Willow Dr, Toronto",2024-05-04 15:20,2024-05-04 16:00,27.1,2.9,Package was lost but refunded.
+8,108,C002,"126 College St, Toronto","82 Rose Ave, Toronto",2024-05-05 09:10,2024-05-05 09:55,29.5,3.1,Good service.
+9,109,C001,"138 Lakeview Blvd, Toronto","50 Grand Blvd, Toronto",2024-05-05 17:45,2024-05-05 18:30,31.0,3.5,Took too long to arrive.
+10,110,C003,"150 Sunset Ct, Toronto","400 Water St, Toronto",2024-05-06 10:00,2024-05-06 10:40,33.25,3.3,Perfect experience.
